@@ -5,7 +5,7 @@ custom_settings = {
     'ROBOTSTXT_OBEY': False,
     'DOWNLOAD_DELAY': 2,
     'ITEM_PIPELINES': {
-        'jumiaPhone.pipelines.SaveToMySQLJumiaPipeline': 400,
+        'JumiaPhone.pipelines.SaveToMySQLJumiaPipeline': 400,
     }
 }
 
